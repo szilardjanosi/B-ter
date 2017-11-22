@@ -4,3 +4,7 @@ def add(a, b):
 
 def introduce():
     print("Hello, I'm Gittie!")
+
+
+def joke():
+    print("Dani")
